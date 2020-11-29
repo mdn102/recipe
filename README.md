@@ -1,5 +1,5 @@
 # [recipe]()
-This app calls out the Edmam API, built with react.
+This app calls out the Edamam API, built with react.
 
 ## ![screeenshot](https://res.cloudinary.com/djhte2ard/image/upload/v1606620311/recipes_pmvvsg.png)
 
