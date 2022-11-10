@@ -9,7 +9,7 @@
     "react": "^17.0.1",
     "react-dom": "^16.14.0",
     "react-media": "^1.10.0",
-    "react-scripts": "^4.0.1"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
